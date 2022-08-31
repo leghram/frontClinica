@@ -4,7 +4,7 @@ import logo from '../media/logo.png'
 export default function Menu(){
   return<div className='contenedor-menu'>
     <div>
-      <img className='logo' src={logo}/>
+      <img className='logo' src={logo} alt='logo'/>
     </div>
     <div className='enlaces-menu'>
       <div>HOME</div>

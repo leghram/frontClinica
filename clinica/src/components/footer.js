@@ -5,7 +5,7 @@ export default function Footer(){
 
   return <div className="contenedor-footer">
     <div className='elemento'>
-      <img src={logo} className='logo'></img>
+      <img src={logo} className='logo' alt='logo'></img>
       <p>Mauris non nisi semper, lacinia neque in, dapibus leo.<br/> 
         Curabitur sagittis libero tincidunt tempor finibus. <br/> 
         Mauris at dignissim ligula, nec tristique orci.Quisque vitae metus.
