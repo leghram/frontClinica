@@ -1,0 +1,11 @@
+.contenedor-footer{
+  color: blue;
+  font-size: 20px;
+  background-color:rgb(220,235,241);
+  min-height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+

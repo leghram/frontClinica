@@ -1,10 +1,10 @@
 import './App.css';
-import Menu from './components/menu'
+import Services from './views/services';
 
 function App() {
   return (
     <div className="App">
-      <Menu></Menu>
+      <Services></Services>
     </div>
   );
 }
