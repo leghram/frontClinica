@@ -11,6 +11,9 @@ export default function Service({imagen,titulo,descripcion}){
 
     <p>{descripcion}</p>
 
-    <div className='boton-service'>MAS INFORMACION</div>
+    <div className='boton-service'><a href='./'>MAS INFORMACION</a></div>
   </div>
 }
+
+
+

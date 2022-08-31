@@ -1,0 +1,12 @@
+.contenedor-evento{
+  position: relative;
+  background-color: aqua;
+  height: 500px;
+  width: 90%;
+  margin:  auto;
+  display: flex;
+}
+
+.detalles-evento, .imagen-evento{
+  width: 50%;
+}

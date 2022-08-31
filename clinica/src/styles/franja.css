@@ -1,0 +1,14 @@
+.contenedor-franja{
+  background-color: aquamarine;
+}
+
+.titulos-franja{
+  margin: 20px 10%;
+}
+
+
+.trailers-franja{
+
+  display: flex;
+  justify-content: space-around;
+}

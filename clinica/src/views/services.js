@@ -1,7 +1,9 @@
 import Menu from '../components/menu'
 import Footer from '../components/footer'
 import Service from '../components/service'
+import Evento from '../components/evento'
 import '../viewstyles/services.css'
+import Franja from '../components/franja'
 
 const listaServicios = [
   {
@@ -46,6 +48,8 @@ const listaServicios = [
 export default function Services(){
   return <div>
     <Menu></Menu>
+    <Evento></Evento>
+    <Franja></Franja>
     <div className= 'list-services'>
       {
         listaServicios.map((elemento, indice)=>{
