@@ -1,4 +1,10 @@
 .contenedor-menu{
   display: flex;
+  justify-content: space-between;
+}
+
+.enlaces-menu{
+  display: flex;
+  width: 80%;
   justify-content: space-around;
 }
