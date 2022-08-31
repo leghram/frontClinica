@@ -1,10 +1,10 @@
 import './App.css';
-import Account from './views/account';
+import Services from './views/services'
 
 function App() {
   return (
     <div className="App">
-      <Account></Account>
+      <Services></Services>
     </div>
   );
 }

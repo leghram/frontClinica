@@ -1,20 +1,29 @@
 .contenedor-service{
-  background-color: rgb(228, 152, 152);
-  min-width: 30%;
+  background-color: rgb(242, 242, 242);
+  width: 30%;
   margin: 30px auto;
-  height: 400px;
+  height: 500px;
   text-align: center;
+  border-radius: 20px;
+  padding: 10px;
 }
 
 
 .imagen-service{
-  height: 280px;
-  background-color: blue;
+   border-radius: 20px;
 }
 
+.imagen{
+  width: 100%;
+  border-radius: 20px;
+}
+
+.descripcion{
+  margin: 40px auto;
+}
 
 .boton-service{
-  background-color: greenyellow;
+  background-color: rgb(84, 199, 196);
   border-radius: 10px;
   height: 30px;
   width: 50%;

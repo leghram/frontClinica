@@ -1,6 +1,8 @@
 .contenedor-menu{
+  background-color: rgb(19, 119, 194);
   display: flex;
   justify-content: space-around;
+  color: white;
 }
 
 .enlaces-menu{

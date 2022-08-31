@@ -1,6 +1,5 @@
 .contenedor-evento{
   position: relative;
-  background-color: aqua;
   height: 500px;
   width: 90%;
   margin:  auto;
@@ -9,4 +8,14 @@
 
 .detalles-evento, .imagen-evento{
   width: 50%;
+}
+
+.detalles-evento{
+  background-image: url('http://websmirno.site/medin/html/medlab-html/images/content/banner-appointment.png');
+  background-size: 100% 100%;
+}
+
+.imagen-e{
+  width: 100%;
+  height: 100%;
 }

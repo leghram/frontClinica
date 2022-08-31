@@ -6,8 +6,8 @@ export default function Franja(){
 
   return <div className='contenedor-franja'>
     <div className='titulos-franja'>
-      <h1>TITULO DE LA FRANJA TIPS PROMOCIONES</h1>
-      <p>Breve descripcion</p>
+      <h2>TIPS Y PROMOCIONES</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis semper felis Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis semper felis</p>
     </div>
     <div className='trailers-franja'>
       <Trailer></Trailer>
